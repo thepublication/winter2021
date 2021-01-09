@@ -4,24 +4,25 @@ body {
 background-color: #00080;
 font-size: 100%;
 }
+}
 .tab { text-indent: 40px; }
 div.navigate {
 top: 0;
 left: 0;
 color: #EEEEEE;
-font-family: 'Brush Script MT', cursive;
+font-family: 'Georgia', serif;
 font-style: oblique;
 }
 
 h1 {
-font-family: Georgia, serif;
+font-family: 'Brush Script MT', cursive;
 font-style: bold;
 text-decoration: underline;
 color: #FFFFFF;
 text-align: center;
 }
 h2 {
-font-family: Georgia, serif;
+font-family: 'Brush Script MT', cursive;
 color: #FFFFFF;
 text-align: left;
 }
