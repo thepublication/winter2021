@@ -1,0 +1,47 @@
+
+
+ body {
+background-color: #00080;
+font-size: 100%;
+}
+.tab { text-indent: 40px; }
+div.navigate {
+top: 0;
+left: 0;
+color: #EEEEEE;
+font-family: 'Brush Script MT', cursive;
+font-style: oblique;
+}
+
+h1 {
+font-family: Georgia, serif;
+font-style: bold;
+text-decoration: underline;
+color: #FFFFFF;
+text-align: center;
+}
+h2 {
+font-family: Garamond, serif;
+color: #FFFFFF;
+text-align: left;
+}
+h3 {
+font-family: Garamond, serif;
+color: #FFFFFF;
+text-align: left;
+margin-left: 100px;
+}
+p {
+font-family: Garamond, serif;
+color: #483c32;
+letter-spacing: 2px;
+margin-left: 100px;
+margin-right: 100px;
+}
+li {
+margin-left: 15px;
+font-family: Garamond, serif;
+font-style: italic;
+letter-spacing: 2px;
+color: #483c32;
+}
