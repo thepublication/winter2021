@@ -1,6 +1,6 @@
 
 
- body {
+body {
 background-color: #00080;
 font-size: 100%;
 }
@@ -21,19 +21,19 @@ color: #FFFFFF;
 text-align: center;
 }
 h2 {
-font-family: Garamond, serif;
+font-family: Georgia, serif;
 color: #FFFFFF;
 text-align: left;
 }
 h3 {
-font-family: Garamond, serif;
+font-family: Georgia, serif;
 color: #FFFFFF;
 text-align: left;
 margin-left: 100px;
 }
 p {
 font-family: Garamond, serif;
-color: #483c32;
+color: #FFFFFF;
 letter-spacing: 2px;
 margin-left: 100px;
 margin-right: 100px;
@@ -43,5 +43,5 @@ margin-left: 15px;
 font-family: Garamond, serif;
 font-style: italic;
 letter-spacing: 2px;
-color: #483c32;
+color: #FFFFFF;
 }
