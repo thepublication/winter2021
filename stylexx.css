@@ -1,5 +1,5 @@
 body {
-    background-color: #faf0e6;
+    background-color: #d3d3d3;
     font-size: 100%;
 }
 }
@@ -8,7 +8,7 @@ body {
 div.navigate {
     top: 0;
     left: 0;
-    color: #4F2F4F;
+    color: #FF007F;
     font-family: Verdana, sans-serif;
     font-style: oblique;
     text-decoration: underline;
@@ -17,7 +17,7 @@ div.navigate {
 h1 {
 font-family: "Brush Script MT", cursive;
     text-decoration: underline;
-    color: #800020;
+    color: #003366;
     text-align: center;
     }
     
@@ -25,14 +25,14 @@ font-family: "Brush Script MT", cursive;
         font-family: Arial, sans-serif;
 font-style: italic;
     text-decoration: underline;
-    color: #800020;
+    color: #FF007F;
     text-align: left;
     }
     
     h3 {
         ffont-family: "Brush Script MT", cursive;
     text-decoration: underline;
-    color: #800020;
+    color: #003366;
     text-align: left;
         margin-left: 100px;
     }
@@ -42,14 +42,14 @@ font-style: italic;
 
 p {
 font-family: "Brush Script MT", cursive;
-    color: #483c32;
+    color: #003366;
     margin-left: 100px;
     margin-right: 100px;
 }
     li {
         margin-left: 15px;
     font-family: "Brush Script MT", cursive;
-    color: #483c32;
+    color: #003366;
     }
 
 div.blockquote {
