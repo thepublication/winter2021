@@ -1,48 +1,61 @@
-
-
 body {
-background-color: #00080;
-font-size: 100%;
+    background-color: #faf0e6;
+    font-size: 100%;
+}
 }
 
 .tab { text-indent: 40px; }
 div.navigate {
-top: 0;
-left: 0;
-color: #EEEEEE;
-font-family: 'Georgia', serif;
-font-style: oblique;
+    top: 0;
+    left: 0;
+    color: #4F2F4F;
+    font-family: Verdana, sans-serif;
+    font-style: oblique;
+    text-decoration: underline;
 }
 
 h1 {
-font-family: 'Brush Script MT', cursive;
-font-style: bold;
-text-decoration: underline;
-color: #FFFFFF;
-text-align: center;
-}
-h2 {
-font-family: 'Brush Script MT', cursive;
-color: #FFFFFF;
-text-align: left;
-}
-h3 {
-font-family: Georgia, serif;
-color: #FFFFFF;
-text-align: left;
-margin-left: 100px;
-}
-p {
-font-family: Garamond, serif;
-color: #FFFFFF;
-letter-spacing: 2px;
-margin-left: 100px;
-margin-right: 100px;
-}
-li {
-margin-left: 15px;
-font-family: Garamond, serif;
+font-family: "Brush Script MT", cursive;
+    text-decoration: underline;
+    color: #800020;
+    text-align: center;
+    }
+    
+    h2 {
+        font-family: Arial, sans-serif;
 font-style: italic;
-letter-spacing: 2px;
-color: #FFFFFF;
+    text-decoration: underline;
+    color: #800020;
+    text-align: left;
+    }
+    
+    h3 {
+        ffont-family: "Brush Script MT", cursive;
+    text-decoration: underline;
+    color: #800020;
+    text-align: left;
+        margin-left: 100px;
+    }
+       
+        
+   
+
+p {
+font-family: "Brush Script MT", cursive;
+    color: #483c32;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+    li {
+        margin-left: 15px;
+    font-family: "Brush Script MT", cursive;
+    color: #483c32;
+    }
+
+div.blockquote {
+    text-indent: 40px;
+    font-family: Verdana, sans-serif;
+    font-style: bold;
+    color: #000000;
+    font-size: .875em;
 }
