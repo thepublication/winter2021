@@ -1,5 +1,5 @@
 body {
-    background-color: #d3d3d3;
+    background-color: #d9d4d4;
     font-size: 100%;
 }
 }
@@ -17,8 +17,9 @@ div.navigate {
 h1 {
 font-family: "Brush Script MT", cursive;
     text-decoration: underline;
-    color: #003366;
+    color: #FFFFFF;
     text-align: center;
+    text-shadow: 2px 2px #f70ebd;
     }
     
     h2 {
@@ -49,7 +50,8 @@ font-family: "Brush Script MT", cursive;
     li {
         margin-left: 15px;
     font-family: "Brush Script MT", cursive;
-    color: #003366;
+    color: #FFFFFF;
+        text-shadow: 2px 2px #f70ebd;
     }
 
 div.blockquote {
