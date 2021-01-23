@@ -15,7 +15,7 @@ div.navigate {
 }
 
 h1 {
-font-family: "Brush Script MT", cursive;
+font-family: "Luminari", fantasy;
     text-decoration: underline;
     color: #FFFFFF;
     text-align: center;
@@ -23,7 +23,7 @@ font-family: "Brush Script MT", cursive;
     }
     
     h2 {
-        font-family: Arial, sans-serif;
+        font-family: "Luminari", fantasy;
 font-style: italic;
     text-decoration: underline;
     color: #FF007F;
@@ -42,16 +42,16 @@ font-style: italic;
    
 
 p {
-font-family: "Brush Script MT", cursive;
+font-family: "Snell Roundhand:, cursive;
     color: #003366;
     margin-left: 100px;
     margin-right: 100px;
 }
     li {
         margin-left: 15px;
-    font-family: "Brush Script MT", cursive;
-    color: #FFFFFF;
-        text-shadow: 2px 2px #f70ebd;
+    font-family: "Snell Roundhand", cursive;
+    color: #f70ebd;
+        text-shadow: 2px 2px #FFFFFF;
     }
 
 div.blockquote {
