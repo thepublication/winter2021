@@ -42,7 +42,7 @@ font-style: italic;
    
 
 p {
-font-family: "Snell Roundhand:, cursive;
+font-family: "Trebuchet MS", sans-serif;
     color: #003366;
     margin-left: 100px;
     margin-right: 100px;
@@ -51,6 +51,7 @@ font-family: "Snell Roundhand:, cursive;
         margin-left: 15px;
     font-family: "Snell Roundhand", cursive;
     color: #f70ebd;
+        font-size: 1em;
         text-shadow: 2px 2px #FFFFFF;
     }
 
